@@ -14,7 +14,6 @@ public class RabbitMQMessageListener implements MessageListener {
         System.out.println("message");
         System.out.println(" message=["+new String(message.getBody())+"] ");
 
-
     }
 
 }
