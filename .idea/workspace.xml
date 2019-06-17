@@ -236,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RabbitmqPocApplication">
+  <component name="RunManager" selected="Application.RabbitmqListnerApplication">
     <configuration name="RabbitmqListnerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.stackroute.rabbitmqlistner.RabbitmqListnerApplication" />
       <module name="rabbitmq-listener" />
@@ -265,8 +265,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RabbitmqPocApplication" />
         <item itemvalue="Application.RabbitmqListnerApplication" />
+        <item itemvalue="Application.RabbitmqPocApplication" />
       </list>
     </recent_temporary>
   </component>
